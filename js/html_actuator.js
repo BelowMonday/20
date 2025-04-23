@@ -68,8 +68,9 @@ HTMLActuator.prototype.addTile = function (tile) {
 
   inner.classList.add("tile-inner");
   inner.textContent = tile.value;
-  if (tile.value === 40) inner.textContent = "0";
-  if (tile.value === 37) inner.textContent = "🧊";
+  if (tile.value === 24) inner.textContent = "⌷";
+  if (tile.value === 32) inner.textContent = "⊙";
+  if (tile.value === 115) inner.textContent = "∞";
 
   if (tile.previousPosition) {
     // Make sure that the tile gets rendered in the previous position first
@@ -133,7 +134,7 @@ HTMLActuator.prototype.updateBestScore = function (bestScore) {
 
 HTMLActuator.prototype.message = function (won) {
   var type    = won ? "game-won" : "game-over";
-  var message = won ? "You win!" : "Game over!";
+  var message = won ? "20!" : "21 22 23";
 
   if (typeof ga !== "undefined") {
     ga("send", "event", "game", "end", type, this.score);
