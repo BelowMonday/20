@@ -952,6 +952,12 @@ hr {
     font-size: 0px;
     background-image: url('https://belowmonday.github.io/20/Puzzling Team 4.jpg');
     background-size: 52px; }
+  .tile.tile--82 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/Fluff 8 3.jpg');
+    background-size: 52px; }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #000000;
