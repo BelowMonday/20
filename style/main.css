@@ -700,6 +700,156 @@ hr {
     color: #8b8b8b;
     background: #eff6f7;
     font-size: 25px; }
+  .tile.tile-101 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/1 - Role Key.png');
+    background-size: 100px; }
+  .tile.tile-102 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/2 - Danger's Dungeon.png');
+    background-size: 100px; }
+  .tile.tile-103 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/3 - Cringe's Cringe.png');
+    background-size: 100px; }
+  .tile.tile-105 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/5 - Nature's Cave.png');
+    background-size: 100px; }
+  .tile.tile-108 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/8 - Observation Deck.png');
+    background-size: 100px; }
+  .tile.tile-109 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/9 - 4 gold immense secret.png');
+    background-size: 100px; }
+  .tile.tile-110 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/10 - 81 Roundabout.png');
+    background-size: 100px; }
+  .tile.tile-111 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/11 - 82 Roundabout.png');
+    background-size: 100px; }
+  .tile.tile-112 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/12 - 83 Roundabout.png');
+    background-size: 100px; }
+  .tile.tile-113 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/13 - Orchid Tower.png');
+    background-size: 100px; }
+  .tile.tile-115 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/15 - Me'ing Copyright Zone.png');
+    background-size: 100px; }
+  .tile.tile-117 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/17 - Secret Subway.png');
+    background-size: 100px; }
+  .tile.tile-118 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/18 - Bomb.png');
+    background-size: 100px; }
+  .tile.tile-120 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/20 - World 0.png');
+    background-size: 100px; }
+  .tile.tile-122 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/22 - World 2.png');
+    background-size: 100px; }
+  .tile.tile-123 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/23 - World 3.png');
+    background-size: 100px; }
+  .tile.tile-125 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/25 - World 5.png');
+    background-size: 100px; }
+  .tile.tile-126 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/26 - World 6.png');
+    background-size: 100px; }
+  .tile.tile-128 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/28 - World 8.png');
+    background-size: 100px; }
+  .tile.tile-129 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/29 - World 9.png');
+    background-size: 100px; }
+  .tile.tile-131 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/31 - Numbers.png');
+    background-size: 100px; }
+  .tile.tile-132 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/32 - Fractured Fossils.png');
+    background-size: 100px; }
+  .tile.tile-134 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/34 - 42 106 110.png');
+    background-size: 100px; }
+  .tile.tile-136 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/36 - Dee.png');
+    background-size: 100px; }
+  .tile.tile-139 .tile-inner {
+    color: #ffffff;
+    background: #000000;
+    font-size: 0px;
+    background-image: url('https://belowmonday.github.io/20/30 - Rainbow Dust.png');
+    background-size: 100px; }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #000000;
